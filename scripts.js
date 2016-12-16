@@ -1,4 +1,4 @@
-var sqr = document.querySelector(".disco-squares");
+var sqr = document.getElementById("parent-square");
 
 sqr.addEventListener("mouseover", function(event) {
   event.preventDefault();
