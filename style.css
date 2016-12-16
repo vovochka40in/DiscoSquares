@@ -3,9 +3,8 @@ body {
 }
 
 .disco-squares {
-  max-width: 900px;
-  min-width: 90px;
-  min-height: 900px;
+  width: 900px;
+  height: 900px;
   position: fixed;
   top: 50%;
   left: 50%;
